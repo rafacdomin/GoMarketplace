@@ -76,7 +76,7 @@ $ yarn android
 
 ## License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/rafacdomin/proffy/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/rafacdomin/GoMarketplace/blob/master/LICENSE) for more information.
 
 ---
 
