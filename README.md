@@ -31,6 +31,11 @@
 
 React Native project developed on [RocketSeat GoStack 13.0](https://rocketseat.com.br/). This project is based on an simple marketplace.
 
+<p align='center'>
+  <img src="https://raw.githubusercontent.com/rafacdomin/GoMarketplace/master/github/Listagem.png" alt="List" width="200"/>
+  <img src="https://raw.githubusercontent.com/rafacdomin/GoMarketplace/master/github/Carrinho.png" alt="Cart" width="200"/>
+</p>
+
 ## Technologies
 
 This project was developed with the following technologies:
